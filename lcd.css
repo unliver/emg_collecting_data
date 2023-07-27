@@ -1,0 +1,11 @@
+
+
+
+
+QLCDNumber {{
+  color: {{primaryColor}};
+  background-color:{{primaryColor|opacity(0.1)}};
+  border: 1px solid {{primaryColor|opacity(0.3)}};
+  border-radius: 4px;
+  font-size: 30px;
+}}
